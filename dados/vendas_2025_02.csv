@@ -1,0 +1,7 @@
+data,produto,categoria,quantidade,preco_unitario
+2025-02-03,Notebook Dell,Eletronicos,2,3500.00
+2025-02-08,Headset,Acessorios,5,220.00
+2025-02-14,Monitor 27,Eletronicos,3,1500.00
+2025-02-19,Mouse sem fio,Acessorios,10,80.00
+2025-02-25,Mesa de escritorio,Moveis,2,650.00
+2025-02-27,SSD 1TB,Eletronicos,4,450.00

@@ -1,0 +1,7 @@
+data,produto,categoria,quantidade,preco_unitario
+2025-03-02,Notebook Dell,Eletronicos,2,3500.00
+2025-03-07,Cadeira gamer,Moveis,3,1200.00
+2025-03-12,Teclado mecanico,Acessorios,5,350.00
+2025-03-18,Monitor 27,Eletronicos,4,1500.00
+2025-03-24,SSD 1TB,Eletronicos,6,450.00
+2025-03-29,Webcam HD,Acessorios,7,180.00

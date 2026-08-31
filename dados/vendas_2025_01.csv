@@ -1,0 +1,6 @@
+data,produto,categoria,quantidade,preco_unitario
+2025-01-04,Notebook Dell,Eletronicos,1,3500.00
+2025-01-09,Mouse sem fio,Acessorios,8,80.00
+2025-01-15,Teclado mecanico,Acessorios,3,350.00
+2025-01-22,Monitor 27,Eletronicos,2,1500.00
+2025-01-28,Cadeira gamer,Moveis,1,1200.00
