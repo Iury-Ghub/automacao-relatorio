@@ -18,3 +18,12 @@ top_produtos = (
 
 print("Top 5 produtos por faturamento:")
 print(top_produtos)
+
+vendas["data"] = pd.to_datetime(vendas["data"])
+vendas["mes"] = vendas["data"].dt.to_period("M")
+faturamento_mensal = vendas.groupby("mes")["receita"].sum()
+
+crescimento_mensal = (faturamento_mensal.pct_change()* 100).round(2)
+
+print("Crecimento mensal (%:")
+print(crescimento_mensal)
