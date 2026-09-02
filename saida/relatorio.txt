@@ -1,0 +1,18 @@
+=== RELATÓRIO DE VENDAS ===
+
+Crescimento mensal (%):
+mes
+2025-01      NaN
+2025-02    75.72
+2025-03    35.21
+Freq: M
+
+=== TOP PRODUTOS ===
+
+produto
+Notebook Dell       17500.0
+Monitor 27          13500.0
+Cadeira gamer        4800.0
+SSD 1TB              4500.0
+Teclado mecanico     2800.0
+
